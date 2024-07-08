@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+p{
+  margin-bottom: 20px;
+}
+.none{
+  text-decoration: none;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.overline{
+  text-decoration: overline;
+}
+
+.line-through{
+  text-decoration: line-through;
+}
+
+.underline-solid{
+  text-decoration: underline solid;
+}
+
+.underline-double{
+  text-decoration: underline double red;
+}
+
+.rem{
+  font-size: 1.5rem;
+}
+
+
